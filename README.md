@@ -1,4 +1,4 @@
-[Discord -linda.0309](https://discord.gg/zyem2eAQ)
+[Discord -linda.y](https://discord.gg/zyem2eAQ)
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
